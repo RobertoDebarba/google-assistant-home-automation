@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73e6ddee-f054-4aac-8c5e-c1e87ffca07e",
+    "data": [
+      {
+        "text": "qual a temperatura atual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26b30d17-06db-42c7-9b9a-7845d834c5a2",
+    "data": [
+      {
+        "text": "temperatura atual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "930a57ad-7e88-412d-8b04-7113f8343c97",
+    "data": [
+      {
+        "text": "qual a temperatura atual dentro de casa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdb8fda2-a3a7-47d7-8f2e-11c4d330ad2f",
+    "data": [
+      {
+        "text": "temperatura dentro de casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "value": "no",
+    "synonyms": [
+      "desligar",
+      "nao",
+      "no",
+      "não"
+    ]
+  },
+  {
+    "value": "yes",
+    "synonyms": [
+      "ligar",
+      "sim",
+      "yes"
+    ]
+  }
+]

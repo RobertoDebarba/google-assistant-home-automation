@@ -1,0 +1,67 @@
+[
+  {
+    "id": "16b38e81-e890-4a3e-b74d-7be77e1ad6ac",
+    "data": [
+      {
+        "text": "começar aula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "643f9923-bd0a-41aa-9137-843af7472662",
+    "data": [
+      {
+        "text": "iniciar aula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3df4e20c-4945-4bad-9ec2-dd77ee3935e2",
+    "data": [
+      {
+        "text": "ligar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " projetor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1545fbe6-a2ce-457a-93bb-f45e71947e8e",
+    "data": [
+      {
+        "text": "ligar tv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68a10663-ed26-4499-be79-957d9f166b5a",
+    "data": [
+      {
+        "text": "ligar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": "7bb9f169-7dad-4f4a-984f-7a4197fcbf5c",
+  "name": "ar-conditioning-ask-on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "turn-on",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5883520c-d6e5-4fb0-95ac-b41e097a330f",
+          "required": true,
+          "dataType": "@ar-conditioning",
+          "name": "turnon",
+          "value": "$turnon",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Está um pouco quente. Deseja ligar o ar condicionado?"
+            },
+            {
+              "lang": "pt-br",
+              "value": "Está um pouco quente. Deseja ligar o ar?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ar-conditioning-ask-on"
+    }
+  ]
+}

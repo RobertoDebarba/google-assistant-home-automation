@@ -1,0 +1,26 @@
+[
+  {
+    "id": "46efc44b-08e5-4b81-8ab5-1e986cfaa4e6",
+    "data": [
+      {
+        "text": "Tchau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "684ea539-7dba-4891-9568-1dd9e30798c8",
+    "data": [
+      {
+        "text": "Obrigado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

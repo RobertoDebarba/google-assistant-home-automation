@@ -1,0 +1,36 @@
+[
+  {
+    "id": "d60157e9-666e-4204-a6d2-07e64388a7d9",
+    "data": [
+      {
+        "text": "ligar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ar condicionado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27e86b01-2cca-477b-95b3-91f81e4ed432",
+    "data": [
+      {
+        "text": "ligar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

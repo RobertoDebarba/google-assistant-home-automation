@@ -1,0 +1,50 @@
+[
+  {
+    "id": "625ddf7f-4a67-4898-be45-a173d0cc9f98",
+    "data": [
+      {
+        "text": "terminar projeção",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc501178-167f-44fe-8e8c-f38a002da8e2",
+    "data": [
+      {
+        "text": "terminar a aula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df5da4ae-42e3-447e-8880-33a330d84123",
+    "data": [
+      {
+        "text": "desligar projetor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aee6fc04-a05d-4ef1-befe-85a0b3651ee4",
+    "data": [
+      {
+        "text": "desligar tv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

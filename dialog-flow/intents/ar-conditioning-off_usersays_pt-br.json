@@ -1,0 +1,31 @@
+[
+  {
+    "id": "b028092c-46a6-4f09-a0c9-021bd5e5a1d1",
+    "data": [
+      {
+        "text": "desligar ar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b935b026-b08d-42c9-b365-73540cfd14eb",
+    "data": [
+      {
+        "text": "desligar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ar condicionado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

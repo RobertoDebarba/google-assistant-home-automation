@@ -1,0 +1,9 @@
+{
+  "id": "c3d7c469-164d-4239-b436-b1010f66a75d",
+  "name": "ar-conditioning",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
